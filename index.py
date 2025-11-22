@@ -64,8 +64,9 @@ def transfer_funds():
 
 
 while True:
-    print("----------------------------------------------------------------------------------------")
+    print("==============================")
     print("Welcome to the Banking Page!")
+    print("==============================")
     print("Here you can manage your bank accounts and view transactions.")
     print("Please choose an option from the menu below:")
     print("1. Create New Account")    
